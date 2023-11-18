@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Justin.
+### Hi there 👋 My name is Justin Shum.
 
 <!--
 **jshum17/jshum17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
