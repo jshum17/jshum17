@@ -30,7 +30,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  width = "30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width = "30"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width = "30"/>
-          
+    <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width = "30"/>
+    <img src="https://www.r-project.org/logo/Rlogo.png" width = "30"/>
 </div>
           
 
