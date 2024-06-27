@@ -17,8 +17,8 @@
 
 ## Languages and Tools
 
-- Language: Python, R, Java, C++, C, HTML, CSS
-- Tool: PowerBI, Excel, Jupyter, Git
+- **Language**: Python, R, Java, C++, C, HTML, CSS
+- **Tool**: PowerBI, Excel, Jupyter, Git
 
 ## Connect with me
 
