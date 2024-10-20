@@ -5,7 +5,7 @@
 ![Banner Image](images/banner.png)
 
 ## About Me
-✨ I am a 2nd Year Computer Science student @ UBC with a passion for programming and data science. 
+✨ I am a 3rd Year Computer Science student @ UBC with a passion for programming and data science. 
 
 🚀 As an eager learner, I am motivated to learn new technologies and improve my technical skills while growing professionally
 
@@ -17,8 +17,9 @@
 
 ## Languages and Tools
 
-- **Language**: Python, R, Java, C++, C, HTML, CSS
-- **Tool**: PowerBI, Excel, Jupyter, Git
+- **Language**: Python, R, Java, C++/C, HTML/CSS, JavaScript, TypeScript
+- **Tool**: PowerBI, Excel, Jupyter, Git, GitHub
+- **Libraries**: pandas, Matplotlib, NumPy, scikit-learn
 
 ## Connect with me
 
