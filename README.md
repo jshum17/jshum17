@@ -11,15 +11,15 @@
 
 💡 In the future, my goal is to be able to turn my passion for data science into a successful career where I can contribute to projects and develop data-driven insights to solve complex problems.
 
-- 🤔 I’m currently learning PowerBI and Python
+- 🤔 I’m currently learning SQL
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: jshum2117@gmail.com
 
 ## Languages and Tools
 
-- **Language**: Python, R, Java, C++/C, HTML/CSS, JavaScript, TypeScript
-- **Tool**: PowerBI, Excel, Jupyter, Git, GitHub
-- **Libraries**: pandas, Matplotlib, NumPy, scikit-learn
+- **Language**: Python, R, SQL, Java, C++, C, HTML, CSS, JavaScript, TypeScript
+- **Technologies**: MySQL, Flask, Vue.js, Jupyter Notebook, PowerBI, Git, Figma
+- **Libraries**: pandas, NumPy, scikit-learn, PyTorch, Matplotlib, seaborn, statsmodels, Chart.js, spaCy, NLTK
 
 ## Connect with me
 
